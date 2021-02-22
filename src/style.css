@@ -1,0 +1,53 @@
+body{
+    padding:1em;
+}
+.top{color:white;
+
+    background-color: #000066;
+    padding:1em 2em 3em 3em;
+
+}
+
+.top h1{
+    font-size: 1.8em;
+}
+
+.top h4{
+    font-size: 1.2em;
+}
+
+.top-images{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+
+}
+
+.bottom{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 6em 2em;;
+
+}
+
+.card img{
+    width:7em;
+}
+.card{
+    width:10em;
+}
+
+button{
+
+    color:#000066;
+    padding:1em;
+    font-size:1.1em;
+    font-weight: 600;
+    margin:2em 0;
+}
+
+.top h1{
+    font-size: 3em;;
+}
